@@ -1,0 +1,20 @@
+{
+  "name": "slashdot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nw"
+  },
+  "author": "l0010o0001l",
+  "window": {
+    "toolbar": false,
+    "width": 500,
+    "height": 300
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "nw-builder": "^2.0.2"
+  }
+}
